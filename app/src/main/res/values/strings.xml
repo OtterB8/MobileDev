@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobileDev</string>
+    <string name="pick_gallery">Pick from gallery</string>
+    <string name="take_photo">Take a photo</string>
+    <string name="to_cartoon">Enhance</string>
+    <string name="save">SAVE</string>
+    <string name="share">SHARE</string>
+    <string name="edit_image">Enhance Image</string>
+</resources>

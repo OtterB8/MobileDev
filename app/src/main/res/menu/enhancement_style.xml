@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_mosaic"
+        android:orderInCategory="1"
+        android:title="Mosaic"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_candy"
+        android:orderInCategory="2"
+        android:title="Candy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rain_princess"
+        android:orderInCategory="3"
+        android:title="Rain Princess"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_udnie"
+        android:orderInCategory="2"
+        android:title="Udnie"
+        app:showAsAction="never" />
+</menu>
